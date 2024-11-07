@@ -1,5 +1,6 @@
 ## Hi there, I'm Manuel! 👋
 - 🔭 I’m currently working on my software skills in computer programming.
+- ⚡ Studied [Mechanical Engineering](https://valenciacollege.edu/) at Valencia College in Orlando, Florida. 
 - - 📫 Reach me at: manue-89@hotmail.com
 <!--
 ## Hi there, I'm Manuel! 👋
