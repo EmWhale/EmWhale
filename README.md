@@ -1,7 +1,8 @@
-## Hi there 👋
-
+## Hi there, I'm Manuel! 👋
+- 🔭 I’m currently working on my software skills in computer programming.
+- - 📫 Reach me at: manue-89@hotmail.com
 <!--
-**EmWhale/EmWhale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there, I'm Manuel! 👋
 
 Here are some ideas to get you started:
 
